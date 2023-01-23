@@ -1,6 +1,8 @@
 - 🔭 Estou trabalhando com testes web, mapeamento de cenários de teste, análise de impacto
 - 🌱 Estou estudando programação e automação de testes
 
+##
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
