@@ -1,7 +1,7 @@
 🔍 **Analista de Testes | QA Chapter Lead | Automação Web, API e Mobile**
 
 🎯 **Sobre Mim:**
-Sou um Analista de Testes com mais de 5 anos de experiência em testes manuais e automação, abrangendo Web, API e Mobile. Atualmente, atuo como QA Chapter Lead na 123Milhas, onde lidero a distribuição de tarefas, apoio gerencial e condução de entrevistas. Tenho forte conhecimento em ferramentas de automação como Selenium WebDriver, Playwright, Cypress, e metodologias ágeis.
+Sou um Analista de Testes com mais de 5 anos de experiência em testes manuais e automação, abrangendo Web, API e Mobile. Atualmente, atuo como QA Chapter Leads, onde além das atividades de teste também apoio na condução de entrevistas, auxílio e acompanhamento de outros QAs. Tenho conhecimento em ferramentas de automação como Selenium WebDriver, Playwright, Cypress, Mocha e Chai, Jest e WebdriverIO além da atuação com metodologias ágeis.
 
 🚀 **Habilidades:**
 - Testes Manuais e Automação (Web, API, Mobile)
