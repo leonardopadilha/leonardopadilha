@@ -1,29 +1,6 @@
-🔍 **Analista de Testes | QA Chapter Lead | Automação Web, API e Mobile**
+Sou Analista de Qualidade de Software na 123Milhas, onde planejo, elaboro e executo cenários de teste para sistemas Web, Mobile e APIs. Além disso, realizo análises de impacto, revisão de requisitos e executo testes funcionais, exploratórios e de regressão para garantir a qualidade das entregas. Contribuo para a definição de boas práticas de qualidade, validação de sistemas focada na experiência do usuário e resolução de bugs.  
 
-🎯 **Sobre Mim:**
-Sou um Analista de Testes com mais de 5 anos de experiência em testes manuais e automação, abrangendo Web, API e Mobile. Atualmente, atuo como QA Chapter Leads, onde além das atividades de teste também apoio na condução de entrevistas, auxílio e acompanhamento de outros QAs. Tenho conhecimento em ferramentas de automação como Selenium WebDriver, Playwright, Cypress, Mocha e Chai, Jest e WebdriverIO além da atuação com metodologias ágeis.
-
-🚀 **Habilidades:**
-- Testes Manuais e Automação (Web, API, Mobile)
-- Ferramentas: Selenium WebDriver, Playwright, Cypress, Postman, Insomnia, Swagger, Rest-Assured, Mocha, Chai, Jest
-- Linguagens: JavaScript
-- Metodologias Ágeis
-- Liderança e Gestão de Equipes
-- Análise de Requisitos e Documentação
-
-🌱 **Formação:**
-- Pós-graduação em Automação de Teste (em andamento)
-- Pós-graduação em Engenharia da Qualidade de Software
-- Bacharelado em Sistemas de Informação
-
-📈 **Projetos Pessoais:**
-- Automação de Testes Web e API
-- Automação Mobile
-
-📚 **Alguns Cursos Extracurriculares:**
-- PTQS - Programa de Teste de Software
-- Automação sem Complicação Web 2.0
-- Descomplicando Testes de API Rest
+Sou formado em Sistemas de Informação pelo Centro Universitário UNA e possuo especialização em Engenharia da Qualidade de Software pelo Centro Universitário Senac. Atualmente, estou expandindo minhas competências em automação de testes com especializações em Inteligência Artificial e ferramentas como Playwright e LangChain, visando contribuir com times que priorizam evolução contínua e excelência em engenharia de software.
 
 ##
 
